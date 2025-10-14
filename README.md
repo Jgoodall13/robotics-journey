@@ -2,7 +2,6 @@
 
 ## Mission
 Senior full-stack developer pivoting to robotics engineering.
-Target: Tesla Optimus team in 4-6 months.
 
 ## Progress
 - Week 1: C++ fundamentals, first programs
